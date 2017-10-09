@@ -4,7 +4,7 @@ import urllib.request
 import re
 
 
-# page = 2
+# page = 5
 # url = 'http://www.qiushibaike.com/hot/page/' + str(page)
 url='https://www.qiushibaike.com/article/'
 user_agent = 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:56.0) Gecko/20100101 Firefox/56.0'
